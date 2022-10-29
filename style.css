@@ -1,0 +1,216 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    
+}
+.main{
+    width: 400px;
+    height: 350px;
+    background-color: rgb(25,27,40);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 5px 2px red;
+}
+.first{
+    display: flex;
+    justify-content: center;
+}
+.clear{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(251,1,106);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.display{
+    width: 330px;
+    height: 50px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.second{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.number7{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.number8{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.number9{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.mul{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.third{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.number4{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.number5{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.number6{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.divide{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.fourth{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.number1{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.number2{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.number3{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.plus{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fifth{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+.dot{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.zero{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.equals{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(251,1,106);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subtract{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(101,38,143);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
